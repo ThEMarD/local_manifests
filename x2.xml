@@ -6,5 +6,9 @@
   <project path="vendor/leeco"                name="TheMuppets/proprietary_vendor_leeco"             revision="cm-14.1" />
   <project path="system/qcom"                 name="LineageOS/android_system_qcom"                   revision="cm-14.1" />
 
+  <project path="rpm"                         name="ThEMarD/droid-hal-x2"                            revision="master" />
+  <project path="hybris/droid-configs"        name="ThEMarD/droid-config-x2"                         revision="master" />
+  <project path="hybris/droid-hal-version-x2" name="ThEMarD/droid-hal-version-x2"                    revision="master" />
+  
   <project path="hybris/hybris-boot"          name="ThEMarD/hybris-boot"                             revision="master" />
 </manifest>
